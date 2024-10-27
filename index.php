@@ -39,7 +39,7 @@ function isBotIP() {
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="google-site-verification" content="kNKVylxe3JMDZhKPiU7Wm2cUuh_Jf7vbJo2IZgwJOoM" />
+  <meta name="google-site-verification" content="vWoExYCKbIckw1NkOVa6FvZbBWFJtFf_H_TW85Su7b0" />
   <!-- Nard -->
   <!-- seo emmay -->
   <meta name="og:url" content="https://journalfai.unisla.ac.id/" />
